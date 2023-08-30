@@ -1,0 +1,9 @@
+{
+    "name": "Claire's New Tab",
+    "version": "0.1.0",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "permissions": ["storage"],
+    "manifest_version": 3
+}
