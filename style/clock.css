@@ -1,0 +1,22 @@
+.dayDisplay {
+    font-size: 100px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: rgb(200, 200, 200);
+}
+  
+.dateDisplay {
+    font-size: 32px;
+    font-weight: 300;
+    color: rgb(200, 200, 200);
+
+    font-family: "Courier New", monospace;
+}
+  
+.timeDisplay {
+    font-size: 64px;
+    font-weight: 600;
+    padding-top: 30px;
+    color: rgb(200, 200, 200);
+    font-family: sans-serif;
+}
