@@ -1,0 +1,8 @@
+body{
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #363261;
+    font-family: 'Lato';
+  }
