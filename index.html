@@ -1,6 +1,8 @@
 <html>
     <head>
         <link rel="stylesheet" href="style/main.css">
+        <link rel="stylesheet" href="style/searchbar.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
         <header>
@@ -10,6 +12,11 @@
             <div id="clock">
                 <clock-widget></clock-widget>
             </div>
+
+            <div class="search-box">
+                <button class="btn-search"><i class="fa fa-search"></i></button>
+                <input type="text" class="input-search" placeholder="Type to Search...">
+              </div>
         </main>
         <script src="widgets/clock.js"></script>
     </body>
